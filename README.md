@@ -1,143 +1,127 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C22F0&height=190&section=header&text=John%20Doe&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C22F0&height=190&section=header&text=Tousif%20&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&pause=1000&color=6C22F0&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer;Cloud+Solutions+Architect;DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&pause=1000&color=6C22F0&center=true&vCenter=true&random=false&width=600&height=100&lines=Full%20Stack%20Developer;Cloud%20AWS%20Certified;DevOps%20Learner" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/johndoe"><img src="https://img.shields.io/badge/-John%20Doe-6C22F0?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:contact@johndoe.dev"><img src="https://img.shields.io/badge/-contact@johndoe.dev-6C22F0?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/johndoe"><img src="https://img.shields.io/badge/-@johndoe-6C22F0?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://johndoe.dev"><img src="https://img.shields.io/badge/-johndoe.dev-6C22F0?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://dev.to/johndoe"><img src="https://img.shields.io/badge/-johndoe-6C22F0?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  
-  <img src="https://komarev.com/ghpvc/?username=johndoe&label=Profile%20views&color=6C22F0&style=flat" alt="johndoe" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johndoe&theme=discord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="johndoe" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
 
+
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> About Me
 
-- 🔭 I'm currently working on **AWS Cloud Solutions**
-- 🌱 I'm currently learning **Blockchain Development & AI/ML**
+- 🔭 I'm currently working on **Full Stack Projects**
+- 🌱 I'm currently learning **Devops & Cloud**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, AWS, and System Design**
-- 📫 How to reach me: **contact@johndoe.dev**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+- 💬 Ask me about **React, Node.js, AWS, Devops and System Design**
+- 📫 How to reach me: **tousifdev07@gmail.com**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 5 minutes**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technical Skills
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,styledcomponents" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,go,graphql,apollo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="52" alt="fastapi logo" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">DevOps & Cloud</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,prometheus,grafana,jenkins" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Database</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,cassandra" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" height="40" width="52" alt="influxdb logo" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Tools & Others</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,figma,postman,linux" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Learning</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=rust,solidity,tensorflow,pytorch,flutter,dart" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<h2 align="center">🛠️ Technical Skills</h2>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eq/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-  <a href="https://github.com/johndoe/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoe&repo=project1&theme=midnight-purple&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/johndoe/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johndoe&repo=project2&theme=midnight-purple&hide_border=true" alt="Project 2" />
-  </a>
-</div>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndoe&theme=midnight-purple&hide_border=true&stroke=6C22F0&background=0D1117" alt="John's GitHub streak"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/johndoe">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johndoe&theme=midnight_purple" alt="John Doe's GitHub Contribution"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/johndoe">
-    <img alt="John's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/johndoe">
-    <img alt="John's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=johndoe&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" height="192px" width="49.5%"/>
-  </a>
-</div>
-
-## <img src="https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width="35"> Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/johndoe/github-readme-activity-graph">
-    <img alt="John's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=johndoe&custom_title=John%20Doe's%20Contribution%20Graph&bg_color=0D1117&color=6C22F0&line=8A2BE2&point=C9A0DC&area=true&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&background=0D1117&border=6C22F0" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <h3>🎧 Now Playing</h3>
-  <a href="https://open.spotify.com/user/USER_NAME">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=USER_NAME&cover_image=true&theme=default&background_color=0D1117&bar_color=6C22F0&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend Development</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="React" title="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="Next.js" title="Next.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="TypeScript" title="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="50" alt="Vue.js" title="Vue.js" />
+         <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="50" width="50" alt="tailwindcss" title="tailwindcss" />
+      </div>
+      <br/>
+      <div align="center"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" /></div>
+      <br/>
+      <div align="center">
+        <p>Building responsive, elegant interfaces with modern frameworks and performance optimization</p>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend Development</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="Node.js" title="Node.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="50" alt="Express" title="Express" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="Python" title="Python" />
+      </div>
+      <br/>
+      <div align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" /></div>
+      <br/>
+      <div align="center">
+        <p>Crafting scalable APIs, microservices, and robust server-side applications</p>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">DevOps & Cloud</h3>
+      <div align="center">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-download-in-svg-png-gif-file-formats--cloud-computing-network-server-database-brand-pack-logos-icons-1583149.png?f=webp&w=256" height="50" width="50" alt="AWS" title="AWS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="Docker" title="Docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" width="50" alt="Kubernetes" title="Kubernetes" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" width="50" alt="Terraform" title="Terraform" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" width="50" alt="Jenkins" title="Jenkins" />
+      </div>
+      <br/>
+      <div align="center"><img src="https://media.giphy.com/media/gH7uTPgEg7TN1wIJwZ/giphy.gif" width="100" /></div>
+      <br/>
+      <div align="center">
+        <p>Infrastructure-as-Code, CI/CD pipelines, and cloud-native architecture</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Database Technologies</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" alt="MongoDB" title="MongoDB" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" alt="MySQL" title="MySQL" />
+      </div>
+      <br/>
+      <div align="center"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" /></div>
+      <br/>
+      <div align="center">
+        <p>Designing data models and optimizing query performance for scalability</p>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools & Workflow</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" title="Git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="GitHub" title="GitHub" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="VS Code" title="VS Code" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" width="50" alt="Jira" title="Jira" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" alt="Figma" title="Figma" />
+      </div>
+      <br/>
+      <div align="center" color="black"><img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="100" /></div>
+      <br/>
+      <div align="center">
+        <p>Leveraging productive workflow tools for efficient development cycles</p>
+      </div>
+    </td>
+<!--     <td valign="top" width="33%">
+      <h3 align="center">Emerging Technologies</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" width="50" alt="TensorFlow" title="TensorFlow" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50" width="50" alt="Rust" title="Rust" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="50" width="50" alt="Solidity" title="Solidity" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="50" alt="Flutter" title="Flutter" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" width="50" alt="PyTorch" title="PyTorch" />
+      </div>
+      <br/>
+      <div align="center"><img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100" /></div>
+      <br/>
+      <div align="center">
+        <p>Exploring next-generation technologies to stay ahead of the curve</p>
+      </div>
+    </td> -->
+  </tr>
+</table>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C22F0&height=120&section=footer" alt="footer" />
